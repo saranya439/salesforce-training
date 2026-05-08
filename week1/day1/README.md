@@ -61,4 +61,11 @@ Outcome
 * Understood CRM
 * Created Playground
 * Learned business workflow
+## Screenshorts
+
+<img width="1600" height="769" alt="WhatsApp Image 2026-05-08 at 7 26 11 PM" src="https://github.com/user-attachments/assets/97c542cc-df49-4f9b-ad86-0017ef7220bf" />
+<img width="1600" height="722" alt="WhatsApp Image 2026-05-08 at 7 29 46 PM" src="https://github.com/user-attachments/assets/050ff421-fac3-4f23-a309-666b0a804fc0" />
+<img width="1600" height="667" alt="WhatsApp Image 2026-05-08 at 7 30 04 PM" src="https://github.com/user-attachments/assets/1c8aa18f-765a-4275-9797-433cca597c4e" />
+<img width="1600" height="745" alt="WhatsApp Image 2026-05-08 at 7 30 19 PM" src="https://github.com/user-attachments/assets/2f0a8067-72dd-41a4-a76e-eaaed78b3716" />
+
 
