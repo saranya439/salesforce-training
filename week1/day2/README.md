@@ -78,3 +78,10 @@ Field Details:
  What I Understood
 
 Salesforce provides both ready-made CRM features and customization tools. It helps companies manage customer data, automate work, and improve productivity.
+
+ScreenShorts:
+
+<img width="1600" height="676" alt="WhatsApp Image 2026-05-09 at 5 02 11 PM" src="https://github.com/user-attachments/assets/1b636aca-8dd2-426d-88e5-3156e3d147df" />
+<img width="1600" height="720" alt="WhatsApp Image 2026-05-09 at 5 02 12 PM (2)" src="https://github.com/user-attachments/assets/4c47bc90-a9a9-4fca-91c4-d1c571b43594" />
+<img width="1600" height="602" alt="WhatsApp Image 2026-05-09 at 5 02 12 PM (1)" src="https://github.com/user-attachments/assets/076836cc-ef48-4f16-9c29-f78de5fdada2" />
+<img width="1600" height="764" alt="WhatsApp Image 2026-05-09 at 5 02 12 PM" src="https://github.com/user-attachments/assets/4dc11a27-5973-47fa-875a-10497fdac73b" />
