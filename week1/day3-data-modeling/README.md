@@ -93,4 +93,9 @@ What I Learned
 
 Screenshots
 
-(Add screenshots here)
+<img width="1477" height="882" alt="WhatsApp Image 2026-05-11 at 7 42 34 PM" src="https://github.com/user-attachments/assets/43c009db-4363-4d61-862e-d57fdb15a886" />
+<img width="1599" height="761" alt="WhatsApp Image 2026-05-11 at 7 40 52 PM" src="https://github.com/user-attachments/assets/e44d6717-d530-4978-80dd-2fd435c735b7" />
+<img width="1600" height="651" alt="WhatsApp Image 2026-05-11 at 7 39 02 PM" src="https://github.com/user-attachments/assets/25ac74d7-a3bf-4b3a-a242-cb8133fa3734" />
+<img width="919" height="580" alt="WhatsApp Image 2026-05-11 at 7 38 41 PM" src="https://github.com/user-attachments/assets/c13eb2cc-8e13-41d7-9e2e-d3d8f020cf26" />
+<img width="1600" height="704" alt="WhatsApp Image 2026-05-11 at 7 38 17 PM" src="https://github.com/user-attachments/assets/08df3d33-0c13-435b-acfd-06eca14417ce" />
+
