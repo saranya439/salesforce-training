@@ -69,12 +69,12 @@ Automatically send reminders to students whose fee due date is approaching.
 (Add your flow diagram screenshot here)
 
 Examples:
+<img width="796" height="586" alt="Screenshot 2026-05-12 204842" src="https://github.com/user-attachments/assets/f9cedb07-150c-4f0b-96f7-d5d07e7717c6" />
 
-* Draw.io diagram
-* PPT diagram
-* Salesforce Flow screenshot
+<img width="1360" height="721" alt="Screenshot 2026-05-12 204801" src="https://github.com/user-attachments/assets/7b652f11-88b1-40ee-a9ea-6cd52af968ce" />
 
----
+
+
 
 5. Manual Process vs Automated Process
 
@@ -109,4 +109,9 @@ What I Learned
 
 # Screenshots
 
+<img width="1913" height="885" alt="Screenshot 2026-05-12 204108" src="https://github.com/user-attachments/assets/40a6fdea-a284-49a7-89b3-de8cc7043cf7" />
+
+<img width="1880" height="889" alt="Screenshot 2026-05-12 204135" src="https://github.com/user-attachments/assets/4c896c54-f645-4c24-be8b-66956bb78e5f" />
+
+<img width="1845" height="727" alt="Screenshot 2026-05-12 204917" src="https://github.com/user-attachments/assets/a8fc51b1-d48d-4f53-9a86-0354e01a9028" />
 
