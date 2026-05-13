@@ -204,3 +204,6 @@ Programming languages like Apex provide flexibility and scalability to handle th
 Apex plays an important role in Salesforce development by enabling advanced automation, integrations, and customized enterprise solutions. It helps organizations build scalable and intelligent systems beyond basic configuration features.
 
 # Screenshots:
+
+<img width="1915" height="909" alt="Screenshot 2026-05-13 202439" src="https://github.com/user-attachments/assets/02a90975-448e-4510-bdd5-78754bbd4ca7" />
+<img width="1917" height="908" alt="Screenshot 2026-05-13 202342" src="https://github.com/user-attachments/assets/5436fbbb-e791-4993-933d-c731a32f77df" />
