@@ -1,4 +1,4 @@
-<img width="1913" height="901" alt="Screenshot 2026-05-14 115922" src="https://github.com/user-attachments/assets/e59bf2ff-14d7-4f6b-8df1-12a1741017e4" />
+
 # Salesforce Trailhead Daily Report
 
 ## Modules Completed
