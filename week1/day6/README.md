@@ -1,3 +1,4 @@
+<img width="1913" height="901" alt="Screenshot 2026-05-14 115922" src="https://github.com/user-attachments/assets/e59bf2ff-14d7-4f6b-8df1-12a1741017e4" />
 # Salesforce Trailhead Daily Report
 
 ## Modules Completed
@@ -28,4 +29,16 @@ One Doubt / Question
 What are the main real-time use cases where SOSL is preferred over SOQL in Salesforce projects?
 
 Screenshots:
+
+<img width="1913" height="901" alt="Screenshot 2026-05-14 115922" src="https://github.com/user-attachments/assets/9469c9fe-8d68-42f2-9e71-852534ff363e" />
+
+<img width="1919" height="920" alt="Screenshot 2026-05-14 120401" src="https://github.com/user-attachments/assets/1544289f-86ae-4aa7-9429-4276c0a37313" />
+
+<img width="1861" height="885" alt="Screenshot 2026-05-14 120225" src="https://github.com/user-attachments/assets/353a61a6-50ab-4834-80a6-1c125323ad09" />
+
+
+
+
+
+
 
