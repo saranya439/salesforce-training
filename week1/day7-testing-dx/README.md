@@ -4,8 +4,7 @@
 
 ## 1. Why Testing Matters
 
-Testing is very important in Salesforce because it ensures code reliability and stability before deployment.<img width="1874" height="921" alt="Screenshot 2026-06-04 123914" src="https://github.com/user-attachments/assets/19b8f3f4-1ee3-4ff8-85b5-d006816df2d5" />
-
+Testing is very important in Salesforce because it ensures code reliability and stability before deployment.
 
 ### Importance:
 - Prevents bugs in production
